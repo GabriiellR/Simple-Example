@@ -1,0 +1,67 @@
+﻿﻿@using DevExpress.Blazor
+@using MinasDireto.Module.Blazor.Editors
+@using System.Collections.ObjectModel
+
+<DxLoadingPanel @bind-Visible="ShowLoadPanel"
+				IsContentBlocked="true"
+				CssClass="w-100"
+				ApplyBackgroundShading="true">
+
+	<DxComboBox Data="@ComponentModel.Data"
+				ValueChanged="@((string data) => SelectedArticleChanged(data))"
+				oninput="@((ChangeEventArgs e) => HandleInput(e))"
+				ListRenderMode="ListRenderMode.Virtual"
+				FilteringMode="DataGridFilteringMode.None"
+				DropDownVisibleChanged="@((value) => OnDropDownVisibleChanged(value))"
+				AllowUserInput="!ShowLoadPanel"
+				Enabled="!ShowLoadPanel"
+				DropDownVisible="false"
+				spellcheck="false"
+				CssClass="w-100"
+				ClearButtonDisplayMode="DataEditorClearButtonDisplayMode.Auto">
+	</DxComboBox>
+
+</DxLoadingPanel>
+
+@code {
+	[Parameter]
+	public InputModel ComponentModel { get; set; }
+
+	public static RenderFragment Create(InputModel componentModel) => @<InputRenderer ComponentModel="@componentModel" />;
+
+	private bool ShowLoadPanel { get; set; }
+
+
+	protected override void OnAfterRender(bool firstRender)
+	{
+		base.OnAfterRender(firstRender);
+	}
+
+	protected override async Task OnInitializedAsync()
+	{
+		ShowLoadPanel = true;
+
+		ShowLoadPanel = false;
+	}
+
+	private void SelectedArticleChanged(string data)
+	{
+		if (ComponentModel.ValueChanged.HasDelegate)
+		{
+			ComponentModel.ValueChanged.InvokeAsync(data);
+		}
+	}
+
+	private void OnDropDownVisibleChanged(bool visible)
+	{
+		if (visible)
+		{
+			StateHasChanged();
+		}
+	}
+
+	private void HandleInput(ChangeEventArgs e)
+	{
+		Console.WriteLine($"Input changed: {e.Value}");
+	}
+}

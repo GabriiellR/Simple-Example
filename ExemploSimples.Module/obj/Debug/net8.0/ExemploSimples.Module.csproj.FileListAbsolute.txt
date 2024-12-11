@@ -1,0 +1,12 @@
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\bin\Debug\net8.0\ExemploSimples.Module.deps.json
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\bin\Debug\net8.0\ExemploSimples.Module.dll
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\bin\Debug\net8.0\ExemploSimples.Module.pdb
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\obj\Debug\net8.0\ExemploSimples.Module.csproj.AssemblyReference.cache
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\obj\Debug\net8.0\ExemploSimples.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\obj\Debug\net8.0\ExemploSimples.Module.AssemblyInfoInputs.cache
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\obj\Debug\net8.0\ExemploSimples.Module.AssemblyInfo.cs
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\obj\Debug\net8.0\ExemploSimples.Module.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\obj\Debug\net8.0\ExemploSimples.Module.dll
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\obj\Debug\net8.0\refint\ExemploSimples.Module.dll
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\obj\Debug\net8.0\ExemploSimples.Module.pdb
+C:\Users\gabriel.dias\source\repos\ExemploSimples\ExemploSimples.Module\obj\Debug\net8.0\ref\ExemploSimples.Module.dll

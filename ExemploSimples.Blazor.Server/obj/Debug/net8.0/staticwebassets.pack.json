@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\Logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "PackagePath": "staticwebassets\\images\\SplashScreen.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ExemploSimples.Blazor.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ExemploSimples.Blazor.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ExemploSimples.Blazor.Server.props",
+      "PackagePath": "build\\ExemploSimples.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ExemploSimples.Blazor.Server.props",
+      "PackagePath": "buildMultiTargeting\\ExemploSimples.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ExemploSimples.Blazor.Server.props",
+      "PackagePath": "buildTransitive\\ExemploSimples.Blazor.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A43E4E-7432-45CE-A0AB-1EBC11C0E835}|ExemploSimples.Blazor.Server\\ExemploSimples.Blazor.Server.csproj|c:\\users\\gabriel.dias\\source\\repos\\exemplosimples\\exemplosimples.blazor.server\\editors\\inputadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A43E4E-7432-45CE-A0AB-1EBC11C0E835}|ExemploSimples.Blazor.Server\\ExemploSimples.Blazor.Server.csproj|solutionrelative:exemplosimples.blazor.server\\editors\\inputadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A43E4E-7432-45CE-A0AB-1EBC11C0E835}|ExemploSimples.Blazor.Server\\ExemploSimples.Blazor.Server.csproj|c:\\users\\gabriel.dias\\source\\repos\\exemplosimples\\exemplosimples.blazor.server\\editors\\inputrenderer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A43E4E-7432-45CE-A0AB-1EBC11C0E835}|ExemploSimples.Blazor.Server\\ExemploSimples.Blazor.Server.csproj|solutionrelative:exemplosimples.blazor.server\\editors\\inputrenderer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A43E4E-7432-45CE-A0AB-1EBC11C0E835}|ExemploSimples.Blazor.Server\\ExemploSimples.Blazor.Server.csproj|c:\\users\\gabriel.dias\\source\\repos\\exemplosimples\\exemplosimples.blazor.server\\editors\\combomboxpropertyeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A43E4E-7432-45CE-A0AB-1EBC11C0E835}|ExemploSimples.Blazor.Server\\ExemploSimples.Blazor.Server.csproj|solutionrelative:exemplosimples.blazor.server\\editors\\combomboxpropertyeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A43E4E-7432-45CE-A0AB-1EBC11C0E835}|ExemploSimples.Blazor.Server\\ExemploSimples.Blazor.Server.csproj|c:\\users\\gabriel.dias\\source\\repos\\exemplosimples\\exemplosimples.blazor.server\\editors\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A43E4E-7432-45CE-A0AB-1EBC11C0E835}|ExemploSimples.Blazor.Server\\ExemploSimples.Blazor.Server.csproj|solutionrelative:exemplosimples.blazor.server\\editors\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906FA5EC-0442-4650-8BA1-C8B630BAB32C}|ExemploSimples.Module\\ExemploSimples.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\exemplosimples\\exemplosimples.module\\businessobjects\\simpleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906FA5EC-0442-4650-8BA1-C8B630BAB32C}|ExemploSimples.Module\\ExemploSimples.Module.csproj|solutionrelative:exemplosimples.module\\businessobjects\\simpleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\Editors\\InputAdapter.cs",
+              "RelativeDocumentMoniker": "ExemploSimples.Blazor.Server\\Editors\\InputAdapter.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\Editors\\InputAdapter.cs",
+              "RelativeToolTip": "ExemploSimples.Blazor.Server\\Editors\\InputAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:49:43.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleExample.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Module\\BusinessObjects\\SimpleExample.cs",
+              "RelativeDocumentMoniker": "ExemploSimples.Module\\BusinessObjects\\SimpleExample.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Module\\BusinessObjects\\SimpleExample.cs",
+              "RelativeToolTip": "ExemploSimples.Module\\BusinessObjects\\SimpleExample.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:19:46.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputRenderer.razor",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\Editors\\InputRenderer.razor",
+              "RelativeDocumentMoniker": "ExemploSimples.Blazor.Server\\Editors\\InputRenderer.razor",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\Editors\\InputRenderer.razor",
+              "RelativeToolTip": "ExemploSimples.Blazor.Server\\Editors\\InputRenderer.razor",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:06:23.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\Editors\\InputModel.cs",
+              "RelativeDocumentMoniker": "ExemploSimples.Blazor.Server\\Editors\\InputModel.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\Editors\\InputModel.cs",
+              "RelativeToolTip": "ExemploSimples.Blazor.Server\\Editors\\InputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:06:14.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CombomBoxPropertyEditor.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\Editors\\CombomBoxPropertyEditor.cs",
+              "RelativeDocumentMoniker": "ExemploSimples.Blazor.Server\\Editors\\CombomBoxPropertyEditor.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\ExemploSimples\\ExemploSimples.Blazor.Server\\Editors\\CombomBoxPropertyEditor.cs",
+              "RelativeToolTip": "ExemploSimples.Blazor.Server\\Editors\\CombomBoxPropertyEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:02:34.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
